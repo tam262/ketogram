@@ -1,0 +1,6 @@
+{
+  "assumptions": {},
+  "presets": ["@babel/preset-react"],
+  "plugins": [],
+  "env": {}
+}
